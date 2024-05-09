@@ -1,0 +1,54 @@
+body {
+    font-family: Arial; /*Esta pendiente cambiar la fuente*/
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+}
+
+.containerPrincipal {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.containerLogo {
+    max-width: 200px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container {
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+}
+
+#buttonPresentarQueja {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    background-color: #009D7E;
+    color: #fff;
+    cursor: pointer;
+    min-height: 70px;
+}
+
+#buttonPresentarSugerencia {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    background-color: #009D7E;
+    color: #fff;
+    cursor: pointer;
+    min-height: 70px;
+}
