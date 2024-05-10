@@ -11,4 +11,6 @@ function ocultar() {
 }
 
 
-  
+  /*
+  Supongo que la idea principal seria ponerlo todo en bloques dispersos por todo el codigo
+  */
